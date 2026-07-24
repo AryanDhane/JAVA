@@ -17,3 +17,12 @@ public class e3 {
         System.out.println("Pass: " + pass);
     }   
 }
+
+
+
+// output
+// Name: Aryan
+// Age: 20
+// Marks: 85.5
+// Grade: A
+// Pass: true
