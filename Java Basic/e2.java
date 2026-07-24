@@ -12,7 +12,7 @@ public class e2 {
     // for input 
         int number = sc.nextInt();
 
-        
+    
         System.out.println("You entered: " + number);
 
     } 
