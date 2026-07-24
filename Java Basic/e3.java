@@ -1,7 +1,7 @@
 public class e3 {
     public static void main(String[] args){
 
-    // VARIABLES
+    // VARIABLES   Data types
 
         // variable declaration
         int age = 20;
