@@ -1,3 +1,6 @@
+// Inheritance example
+
+
 package function;
 
 public class e2 {
